@@ -1,0 +1,44 @@
+{
+    "projects": [
+        {
+            "id": 0,
+            "project_name": "Random Quote Generator",
+            "technologies": [ "HTML", "CSS", "JavaScript" ],
+            "live_link": "https://kelbynylander.github.io/a_random_quote_generator-v1/",
+            "github_link": "https://github.com/KelbyNylander/a_random_quote_generator-v1",
+            "image_urls": [ "/images/project_1/img1.jpeg", "/images/project_1/img2.jpeg", "/images/project_1/img3.jpeg" ]
+          },
+          {
+            "id": 1,
+            "project_name": "Data Pagination and Filtering Project",
+            "technologies": [ "HTML", "CSS", "JavaScript" ],
+            "live_link": "https://kelbynylander.github.io/Data-Pagination-and-Filtering-Project/",
+            "github_link": "https://github.com/KelbyNylander/Data-Pagination-and-Filtering-Project",
+            "image_urls": [ "/images/project_2/img1.jpeg", "/images/project_2/img2.jpeg", "/images/project_2/img3.jpeg" ]
+          },
+          {
+            "id": 2,
+            "project_name": "Interactive Form",
+            "technologies": [ "HTML", "CSS", "JavaScript" ],
+            "live_link": "https://kelbynylander.github.io/Interactive-Form/",
+            "github_link": "https://github.com/KelbyNylander/Interactive-Form",
+            "image_urls": [ "/images/project_3/img1.jpeg", "/images/project_3/img2.jpeg" ]
+          },
+          {
+            "id": 3,
+            "project_name": "Game Show App",
+            "technologies": [ "HTML", "CSS", "JavaScript" ],
+            "live_link": "https://kelbynylander.github.io/OOP-Game-Show-App/",
+            "github_link": "https://github.com/KelbyNylander/OOP-Game-Show-App",
+            "image_urls": [ "/images/project_4/img1.jpeg", "/images/project_2/img2.jpeg", "/images/project_3/img3_lose.jpeg",  "/images/project_3/img3_win.jpeg" ]
+          },
+          {
+            "id": 4,
+            "project_name": "Public API Requests",
+            "technologies": [ "HTML", "CSS", "JavaScript" ],
+            "live_link": "https://kelbynylander.github.io/Public_API_Requests_project/",
+            "github_link": "https://github.com/KelbyNylander/Public_API_Requests_project",
+            "image_urls": [ "/images/project_5/img1.jpeg", "/images/project_5/img2.jpeg" ]
+          }
+    ]
+}
